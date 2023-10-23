@@ -1,0 +1,39 @@
+name: Oracle SQL CI
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Oracle Client
+        uses: wnameless/docker-oracle-xe-11g@v1
+
+      - name: Install Oracle Instant Client
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libaio1
+          mkdir -p ~/oracle
+          curl -o ~/oracle/instantclient-basiclite-linux.x64-19.12.0.0.0dbru.zip https://download.oracle.com/otn_software/linux/instantclient/1912000/instantclient-basiclite-linux.x64-19.12.0.0.0dbru.zip
+          unzip -d ~/oracle ~/oracle/instantclient-basiclite-linux.x64-19.12.0.0.0dbru.zip
+          echo 'export LD_LIBRARY_PATH=~/oracle' >> $GITHUB_ENV
+
+      - name: Install SQLcl
+        run: |
+          mkdir -p ~/sqlcl
+          curl -o ~/sqlcl/sqlcl-21.3.1.266.1456.zip https://www.oracle.com/database/technologies/appdev/sqlcl-21.3/sqlcl-21.3.1.266.1456-no-jre.zip
+          unzip -d ~/sqlcl ~/sqlcl/sqlcl-21.3.1.266.1456.zip
+          echo 'export PATH=~/sqlcl' >> $GITHUB_ENV
+
+      - name: Run SQL Script
+        run: |
+          sql ~/path/to/your/script.sql Financial_audit/Financial_audit@//Financial_audit:1521/localhost
+        env:
+          NLS_LANG: AMERICAN_AMERICA.AL32UTF8
