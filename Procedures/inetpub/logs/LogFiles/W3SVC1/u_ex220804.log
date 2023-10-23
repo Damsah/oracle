@@ -1,0 +1,62 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2022-08-04 08:33:30
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-08-04 08:33:30 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.27 - - 200 0 0 1234
+2022-08-04 08:33:39 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.27 - - 200 0 0 203
+2022-08-04 08:33:58 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.27 - - 200 0 0 62
+2022-08-04 08:33:58 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.27 - - 200 0 0 46
+2022-08-04 08:33:58 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.27 - - 200 0 0 0
+2022-08-04 08:33:58 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.27 - - 200 0 0 253
+2022-08-04 08:33:58 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.27 - - 200 0 0 296
+2022-08-04 08:33:58 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.27 - - 200 0 0 265
+2022-08-04 08:34:14 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.27 - - 200 0 0 312
+2022-08-04 08:43:07 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.28 - - 200 0 0 208
+2022-08-04 08:43:07 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.28 - - 200 0 0 15
+2022-08-04 08:43:07 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.28 - - 200 0 0 0
+2022-08-04 08:43:08 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.28 - - 200 0 0 203
+2022-08-04 08:43:08 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.28 - - 200 0 0 234
+2022-08-04 08:43:10 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.28 - - 200 0 0 250
+2022-08-04 08:43:34 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.28 - - 200 0 0 218
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2022-08-04 10:30:59
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-08-04 10:30:59 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.28 - - 200 0 0 1437
+2022-08-04 10:31:10 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.28 - - 200 0 0 426
+2022-08-04 10:31:25 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.28 - - 200 0 0 31
+2022-08-04 10:31:33 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.28 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2022-08-04 11:04:34
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-08-04 11:04:34 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.28 - - 200 0 0 1156
+2022-08-04 11:06:13 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.28 - - 200 0 0 421
+2022-08-04 11:06:20 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.28 - - 200 0 0 234
+2022-08-04 11:06:21 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.28 - - 200 0 0 203
+2022-08-04 11:06:36 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.28 - - 200 0 0 31
+2022-08-04 11:06:43 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.28 - - 200 0 0 31
+2022-08-04 11:06:43 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.28 - - 200 0 0 218
+2022-08-04 11:06:57 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.28 - - 200 0 0 218
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2022-08-04 12:34:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-08-04 12:34:03 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.28 - - 200 0 0 1255
+2022-08-04 12:34:14 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.28 - - 200 0 0 421
+2022-08-04 12:34:22 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.28 - - 200 0 0 31
+2022-08-04 12:34:24 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.28 - - 200 0 0 46
+2022-08-04 12:34:24 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.28 - - 200 0 0 203
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2022-08-04 13:16:32
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-08-04 13:16:32 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.32 - - 200 0 0 1403
+2022-08-04 13:16:32 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.32 - - 200 0 0 39
+2022-08-04 13:16:32 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.32 - - 200 0 0 25
+2022-08-04 13:16:32 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.32 - - 200 0 0 58
+2022-08-04 13:16:32 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.32 - - 200 0 0 73
+2022-08-04 13:16:32 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.32 - - 200 0 0 54
+2022-08-04 13:16:32 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.32 - - 200 0 0 54
+2022-08-04 13:16:32 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.32 - - 200 0 0 53
+2022-08-04 13:16:37 192.168.1.31 POST /WCF/svcAdminstration.svc - 80 - 192.168.1.32 - - 200 0 0 68

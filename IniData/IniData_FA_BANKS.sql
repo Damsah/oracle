@@ -1,0 +1,23 @@
+
+Insert into FA_BANKS (BANK_ID,BANK_NAME,CO_DELETED) values (1,'البنك العربي ش م ع',0);
+Insert into FA_BANKS (BANK_ID,BANK_NAME,CO_DELETED) values (2,'المؤسسة العربية المصرفية (الاردن)',0);
+Insert into FA_BANKS (BANK_ID,BANK_NAME,CO_DELETED) values (3,'بنك الاردن',0);
+Insert into FA_BANKS (BANK_ID,BANK_NAME,CO_DELETED) values (4,'بنك القاهرة عمان',0);
+Insert into FA_BANKS (BANK_ID,BANK_NAME,CO_DELETED) values (5,'بنك المال الأردني',0);
+Insert into FA_BANKS (BANK_ID,BANK_NAME,CO_DELETED) values (6,'البنك التجاري الأردني',0);
+Insert into FA_BANKS (BANK_ID,BANK_NAME,CO_DELETED) values (7,'البنك الاردني الكويتي',0);
+Insert into FA_BANKS (BANK_ID,BANK_NAME,CO_DELETED) values (8,'البنك الاهلي الاردني',0);
+Insert into FA_BANKS (BANK_ID,BANK_NAME,CO_DELETED) values (9,'بنك الاسكان للتجارة والتمويل',0);
+Insert into FA_BANKS (BANK_ID,BANK_NAME,CO_DELETED) values (10,'بنك الاستثمار العربي الاردني',0);
+Insert into FA_BANKS (BANK_ID,BANK_NAME,CO_DELETED) values (11,'البنك الاستثماري',0);
+Insert into FA_BANKS (BANK_ID,BANK_NAME,CO_DELETED) values (12,'بنك سوسيته جنرال / الاردن',0);
+Insert into FA_BANKS (BANK_ID,BANK_NAME,CO_DELETED) values (13,'بنك الاتحاد',0);
+Insert into FA_BANKS (BANK_ID,BANK_NAME,CO_DELETED) values (14,'ستاندرد تشارترد',0);
+Insert into FA_BANKS (BANK_ID,BANK_NAME,CO_DELETED) values (15,'البنك العقاري المصري العربي',0);
+Insert into FA_BANKS (BANK_ID,BANK_NAME,CO_DELETED) values (16,'سيتي بنك إن . إيه',0);
+Insert into FA_BANKS (BANK_ID,BANK_NAME,CO_DELETED) values (17,'مصرف الرافدين',0);
+Insert into FA_BANKS (BANK_ID,BANK_NAME,CO_DELETED) values (18,'بنك لبنان والمهجر',0);
+Insert into FA_BANKS (BANK_ID,BANK_NAME,CO_DELETED) values (19,'البنك العربي الاسلامي الدولي',0);
+Insert into FA_BANKS (BANK_ID,BANK_NAME,CO_DELETED) values (20,'البنك الاسلامي الاردني',0);
+Insert into FA_BANKS (BANK_ID,BANK_NAME,CO_DELETED) values (21,'بنك صفوة الإسلامي',0);
+Insert into FA_BANKS (BANK_ID,BANK_NAME,CO_DELETED) values (22,'مصرف الراجحي',0);

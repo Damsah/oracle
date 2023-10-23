@@ -1,0 +1,12 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2022-08-29 05:32:26
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem sc-status sc-win32-status sc-substatus x-session x-fullpath
+2022-08-29 05:32:26 192.168.1.25 - 192.168.1.31 21 ControlChannelOpened - - 0 0 ccb8e557-7570-4e46-b841-f89c4e4e2bf2 -
+2022-08-29 05:32:27 192.168.1.25 - 192.168.1.31 21 USER FTPUser2 331 0 0 ccb8e557-7570-4e46-b841-f89c4e4e2bf2 -
+2022-08-29 05:32:27 192.168.1.25 - 192.168.1.31 21 PASS *** 530 1330 41 ccb8e557-7570-4e46-b841-f89c4e4e2bf2 -
+2022-08-29 05:32:27 192.168.1.25 - 192.168.1.31 21 ControlChannelClosed - - 0 0 ccb8e557-7570-4e46-b841-f89c4e4e2bf2 -
+2022-08-29 05:32:27 192.168.1.25 - 192.168.1.31 21 ControlChannelOpened - - 0 0 52be0ce6-78b2-428c-a3f3-a6ec4b228650 -
+2022-08-29 05:32:27 192.168.1.25 - 192.168.1.31 21 USER FTPUser2 331 0 0 52be0ce6-78b2-428c-a3f3-a6ec4b228650 -
+2022-08-29 05:32:27 192.168.1.25 - 192.168.1.31 21 PASS *** 530 1330 41 52be0ce6-78b2-428c-a3f3-a6ec4b228650 -
+2022-08-29 05:32:27 192.168.1.25 - 192.168.1.31 21 ControlChannelClosed - - 0 0 52be0ce6-78b2-428c-a3f3-a6ec4b228650 -

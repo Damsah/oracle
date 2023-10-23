@@ -1,0 +1,3 @@
+
+Insert into FA_SYSTEM_USERS (SU_USER_ID,SU_A_NAME,SU_E_NAME,SU_STATUS,SU_LAST_LOGON_DATE,SU_USER_PASSWORD,SU_PASSWORD_CHANGE_DATE,SU_ENT_DATE,SU_MOD_DATE,SU_USER) values (2,'mohd','mohd','a',null,'123',null,to_date('17-MAY-22','DD-MON-RR'),to_date('17-MAY-22','DD-MON-RR'),'mohd');
+Insert into FA_SYSTEM_USERS (SU_USER_ID,SU_A_NAME,SU_E_NAME,SU_STATUS,SU_LAST_LOGON_DATE,SU_USER_PASSWORD,SU_PASSWORD_CHANGE_DATE,SU_ENT_DATE,SU_MOD_DATE,SU_USER) values (1,'محمد موفق لافي  الدعامسه','mohammad','a',to_date('23-JUL-22','DD-MON-RR'),'123',null,to_date('10-MAY-22','DD-MON-RR'),to_date('10-MAY-22','DD-MON-RR'),'Mohd89');

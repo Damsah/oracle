@@ -1,0 +1,21 @@
+
+Insert into FA_SYSTEM_FORMS (SF_ID,SF_FORM_NAME,SF_FORM_AR_NAME,SF_FORM_ICON,SF_DELETED) values (5,'AddEmployees','إضافة موظف جديد','AddCustomer',0);
+Insert into FA_SYSTEM_FORMS (SF_ID,SF_FORM_NAME,SF_FORM_AR_NAME,SF_FORM_ICON,SF_DELETED) values (6,'AddCustomers','إضافة عميل جديد','AddCustomer',0);
+Insert into FA_SYSTEM_FORMS (SF_ID,SF_FORM_NAME,SF_FORM_AR_NAME,SF_FORM_ICON,SF_DELETED) values (7,'AddUsers','إضافة مستخدم جديد','AddCustomer',0);
+Insert into FA_SYSTEM_FORMS (SF_ID,SF_FORM_NAME,SF_FORM_AR_NAME,SF_FORM_ICON,SF_DELETED) values (8,'AddTaxValue','إضافة نسبة ضريبية جديدة','AddCustomer',0);
+Insert into FA_SYSTEM_FORMS (SF_ID,SF_FORM_NAME,SF_FORM_AR_NAME,SF_FORM_ICON,SF_DELETED) values (9,'InquireTaxValue','الإستعلام عن النسب الضريبية','Info',0);
+Insert into FA_SYSTEM_FORMS (SF_ID,SF_FORM_NAME,SF_FORM_AR_NAME,SF_FORM_ICON,SF_DELETED) values (10,'UpdateTaxValue','تعديل نسبة ضريبية','Edit',0);
+Insert into FA_SYSTEM_FORMS (SF_ID,SF_FORM_NAME,SF_FORM_AR_NAME,SF_FORM_ICON,SF_DELETED) values (11,'DeleteTaxValue','حذف نسبة ضريبية','DeleteW',0);
+Insert into FA_SYSTEM_FORMS (SF_ID,SF_FORM_NAME,SF_FORM_AR_NAME,SF_FORM_ICON,SF_DELETED) values (20,'SignContract','توقيع العقود','Info',0);
+Insert into FA_SYSTEM_FORMS (SF_ID,SF_FORM_NAME,SF_FORM_AR_NAME,SF_FORM_ICON,SF_DELETED) values (12,'AddCustomerContract','إضافة عقد جديد','AddCustomer',0);
+Insert into FA_SYSTEM_FORMS (SF_ID,SF_FORM_NAME,SF_FORM_AR_NAME,SF_FORM_ICON,SF_DELETED) values (13,'InquireCustomers','إستعلام عن عميل','Info',0);
+Insert into FA_SYSTEM_FORMS (SF_ID,SF_FORM_NAME,SF_FORM_AR_NAME,SF_FORM_ICON,SF_DELETED) values (14,'AddCustomerChartOfAccount','إنشاء شجرة حسابات العملاء','AddCustomer',0);
+Insert into FA_SYSTEM_FORMS (SF_ID,SF_FORM_NAME,SF_FORM_AR_NAME,SF_FORM_ICON,SF_DELETED) values (16,'SendSMSForALL','رسائل جماعية','Info',0);
+Insert into FA_SYSTEM_FORMS (SF_ID,SF_FORM_NAME,SF_FORM_AR_NAME,SF_FORM_ICON,SF_DELETED) values (19,'ViewCompanyContracts','عقود العملاء','Info',0);
+Insert into FA_SYSTEM_FORMS (SF_ID,SF_FORM_NAME,SF_FORM_AR_NAME,SF_FORM_ICON,SF_DELETED) values (1,'AddServices','إضافة خدمة جديد','AddCustomer',0);
+Insert into FA_SYSTEM_FORMS (SF_ID,SF_FORM_NAME,SF_FORM_AR_NAME,SF_FORM_ICON,SF_DELETED) values (2,'InquireServices','الإستعلام عن الخدمات','Info',0);
+Insert into FA_SYSTEM_FORMS (SF_ID,SF_FORM_NAME,SF_FORM_AR_NAME,SF_FORM_ICON,SF_DELETED) values (3,'UpdateServices','تعديل خدمة','Edit',0);
+Insert into FA_SYSTEM_FORMS (SF_ID,SF_FORM_NAME,SF_FORM_AR_NAME,SF_FORM_ICON,SF_DELETED) values (4,'DeleteServices','حذف خدمة','DeleteW',0);
+Insert into FA_SYSTEM_FORMS (SF_ID,SF_FORM_NAME,SF_FORM_AR_NAME,SF_FORM_ICON,SF_DELETED) values (15,'CustomerAccounts','حسابات العملاء','AddCustomer',0);
+Insert into FA_SYSTEM_FORMS (SF_ID,SF_FORM_NAME,SF_FORM_AR_NAME,SF_FORM_ICON,SF_DELETED) values (17,'AddCompanyEmpIncomingTax',' إنشاء الإقرار الضريبي للموظفين','Info',0);
+Insert into FA_SYSTEM_FORMS (SF_ID,SF_FORM_NAME,SF_FORM_AR_NAME,SF_FORM_ICON,SF_DELETED) values (18,'ViewEmployeeIncommingTaxYearly','الإقرارات الضريبية للموظفين','Info',0);

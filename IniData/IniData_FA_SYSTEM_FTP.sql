@@ -1,0 +1,2 @@
+
+Insert into FA_SYSTEM_FTP (FTP_LINK,FTP_USER,FTP_PASSWORD) values ('ftp://192.168.56.1/','FTPUser2','FTP@123');

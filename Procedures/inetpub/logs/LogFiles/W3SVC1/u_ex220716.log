@@ -1,0 +1,32 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2022-07-16 14:20:49
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-16 23:59:59 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 3151
+2022-07-16 23:59:59 ::1 GET /iis-85.png - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost/ 200 0 0 8
+2022-07-16 23:59:59 ::1 GET /favicon.ico - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 0 2 4
+2022-07-16 23:59:59 ::1 GET /favicon.ico - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 0 2 3
+2022-07-16 23:59:59 ::1 GET /WCF - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 421
+2022-07-16 23:59:59 ::1 GET /WCF - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 109
+2022-07-16 23:59:59 ::1 GET /WCF - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 156
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2022-07-16 14:53:53
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-16 23:59:59 ::1 GET /WCF - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 140
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2022-07-16 14:55:35
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-16 14:55:35 ::1 GET /WCF - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 301 0 0 953
+2022-07-16 14:55:35 ::1 GET /WCF/ - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 0
+2022-07-16 14:55:40 ::1 GET /WCF/svcAdminstration.svc - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost/WCF/ 200 0 0 2015
+2022-07-16 14:55:41 ::1 GET /WCF/svcAdminstration.svc wsdl 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost/WCF/svcAdminstration.svc 200 0 0 62
+2022-07-16 15:08:58 ::1 GET /WCF/svcAdminstration.svc wsdl 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.0.0+Safari/537.36 - 200 0 0 7
+2022-07-16 15:08:58 ::1 GET /favicon.ico - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.0.0+Safari/537.36 http://localhost/WCF/svcAdminstration.svc?wsdl 404 0 2 5
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2022-07-16 16:16:51
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-16 16:16:51 192.168.1.31 GET /WCF/svcAdminstration.svc wsdl 80 - 192.168.1.31 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.0.0+Safari/537.36 - 200 0 0 3701
+2022-07-16 16:16:51 192.168.1.31 GET /favicon.ico - 80 - 192.168.1.31 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.0.0+Safari/537.36 http://192.168.1.31/WCF/svcAdminstration.svc?wsdl 404 0 2 4
